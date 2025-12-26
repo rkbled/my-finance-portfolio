@@ -7,12 +7,12 @@ Welcome! This repository contains finance projects I've built to demonstrate dat
 1. **Stock Return Analyzer**
    - Analyzes historical stock prices using Python and `yfinance`
    - Calculates returns, risk, and Sharpe ratio
-   - [View notebook](stock_analysis.ipynb)
+   - [View projects]
 
 2. **Monthly Budget Tracker**
    - Tracks income, expenses, and savings
    - Visualizes spending with charts
-   - [View script](budget_tracker.py)
+   - View projects
 
 ## Tools Used
 - Python, Pandas, Matplotlib
