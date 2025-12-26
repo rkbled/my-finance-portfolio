@@ -2,7 +2,7 @@
 
 Welcome! This repository contains finance projects I've built to demonstrate data analysis, financial modeling, and coding skills.
 
-## Projects
+Projects
 
 1. **Stock Return Analyzer**
    - Analyzes historical stock prices using Python and `yfinance`
